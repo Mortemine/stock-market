@@ -1,5 +1,5 @@
 import PySimpleGUI as sg
-
+import mssql_connection as mssql
 
 def login_window():
     layout = [[sg.Text('Логин:', size=(6, 1)), sg.InputText(default_text='admin')],
@@ -24,3 +24,15 @@ def register_window():
               ]
 
     return sg.Window('Войти в систему', layout)
+
+
+def user_window(cursor, user_id, headings, data, tooltip):
+    user_info = mssql.get_user_info(cursor, user_id)  # [Фамилия], [Имя], [Отчество], [дата_рождения]'
+
+    user_contact_info = mssql.get_user_contact_info(cursor, user_id)
+
+    data = list(map(lambda i:list(i), data))
+
+    layout = [[sg.Text('{} {} {} {}'.format(user_info[0], user_info[1], user_info[2], user_info[3])],
+              [sg.Button('')]
+             ]
