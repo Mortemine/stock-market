@@ -1,16 +1,129 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+import PySimpleGUI as sg
+import user_interface as ui
+import sql
 
 
-# Press the green button in the gutter to run the script.
+def login_loop(cursor):
+    current_window = ui.login_window()
+
+    while True:
+        event, values = current_window.read()
+
+        if event == sg.WIN_CLOSED or event == 'Выход':
+            current_window.close()
+            return 'quit'
+
+        elif event == 'Войти':
+            user_id = sql.get_user_id(cursor, values)
+
+            if user_id is None:
+                sg.popup_ok('Неправильный логин или пароль.')
+            elif user_id == 'error':
+                sg.popup_ok('Ошибка запроса к базе данных.')
+            else:
+                current_window.close()
+                return 'work_window' + str(user_id[0])
+
+        if event == 'Регистрация':
+            current_window.close()
+            return 'register_window'
+
+
+def registration_loop(cursor):
+    current_window = ui.register_window()
+
+    while True:
+        event, values = current_window.read()
+
+        if event == sg.WIN_CLOSED or event == 'Выход':
+            current_window.close()
+            return 'quit'
+
+        elif event == 'Зарегистрироваться':
+            if values[7] == values[8]:
+                result = sql.register_user(cursor, values)
+
+                if result == 'error':
+                    sg.popup_ok('Логин уже занят')
+                else:
+                    current_window.close()
+                    return 'work_window' + str(result[0])
+            else:
+                sg.popup_ok('Пароли не совпадают')
+
+        elif event == 'Назад':
+            current_window.close()
+            return 'login_window'
+
+
+def work_window_loop(cursor, user_id):
+    current_window = ui.user_window(cursor, user_id,
+                                    ['код_сделки', 'вид_сделки', 'Брокер', 'Тикер', 'Количество',
+                                     'Биржа', 'Дата'], sql.get_all_trades(cursor),
+                                    'Сделки')
+
+    while True:
+        event, values = current_window.read()
+
+        if event == sg.WIN_CLOSED:
+            current_window.close()
+            return 'quit'
+
+        elif event == 'Сделки':
+            current_window.close()
+
+            current_window = ui.user_window(cursor, user_id,
+                                            ['код_сделки', 'вид_сделки', 'брокер', 'тикер',
+                                             'количество', 'биржа', 'дата'],
+                                            sql.get_all_trades(cursor), 'Сделки')
+
+        elif event == 'Сделки по биржам':
+            current_window.close()
+            current_window = ui.user_window(cursor, user_id,
+                                            ['код_сделки', 'вид_сделки', 'Брокер', 'Тикер', 'Количество',
+                                             'Биржа', 'Дата'], sql.get_trades_by_market(cursor, user_id),
+                                            'Сделки')
+
+        elif event == 'Брокеры':
+            current_window.close()
+            current_window = ui.user_window(cursor, user_id, ['Код_брокера', 'Брокер'],
+                                            sql.get_broker_info(cursor, user_id), 'Брокеры')
+
+        elif event == 'Инструменты':
+            current_window.close()
+            current_window = ui.user_window(cursor, user_id,
+                                            ['код_инструмента', 'наименование', 'тип_инструмента', 'владелец'],
+                                            sql.get_instrument_info(cursor, user_id),
+                                            'Инструменты')
+
+        elif event == 'Котировки':
+            current_window.close()
+            current_window = ui.user_window(cursor, user_id,
+                                            ['код_котировки', 'инструмент', 'цена_покупки', 'цена_продажи',
+                                             'объём', 'Валюта', 'дата'],
+                                            sql.get_trades_by_insrument(cursor, user_id),
+                                            'Сделки')
+
+        elif event == 'Выход':
+            current_window.close()
+            return 'login_window'
+
+
+def execute():
+    sg.theme('DarkGrey13')
+    cursor = sql.connect_to_sql()
+    result = login_loop(cursor)
+
+    while True:
+        if result == 'login_window':
+            result = login_loop(cursor)
+        if result == 'register_window':
+            result = registration_loop(cursor)
+        elif result[:11] == 'work_window':
+            result = work_window_loop(cursor, result[11:])
+        elif result == 'quit':
+            break
+
+
 if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+    execute()

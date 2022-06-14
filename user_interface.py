@@ -1,5 +1,5 @@
 import PySimpleGUI as sg
-import mssql_connection as mssql
+import sql as mssql
 
 def login_window():
     layout = [[sg.Text('Логин:', size=(6, 1)), sg.InputText(default_text='admin')],
