@@ -29,7 +29,25 @@ def add_currencies(cursor):
         insert_command = "INSERT INTO [Stock_market].[dbo].[Валюты] ([Код_валюты], [Название]) " \
                          "VALUES ('{}', '{}')"
         for key in currencies:
-            print(insert_command.format(key, currencies[key]))
             cursor.execute(insert_command.format(key, currencies[key]))
         cursor.commit()
 
+
+def add_companies(cursor):
+    with open('static_data/company_symbols.json', encoding='utf-8') as f:
+        symbols = json.load(f)
+        insert_command = "INSERT INTO [Stock_market].[dbo].[Компании] ([Код_компании], [Название]) " \
+                         "VALUES ('{}', '{}')"
+        for value in symbols:
+            cursor.execute(insert_command.format(value['symbol'], value['name']))
+        cursor.commit()
+
+
+def add_stocks(cursor):
+    with open('static_data/stocks.json', encoding='utf-8') as f:
+        stocks = json.load(f)
+        insert_command = "INSERT INTO [Stock_market].[dbo].[Биржи] ([Код_биржи], [Название]) " \
+                         "VALUES ('{}', '{}')"
+        for key in stocks:
+            cursor.execute(insert_command.format(key, stocks[key]))
+        cursor.commit()
