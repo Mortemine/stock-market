@@ -60,39 +60,30 @@ def get_user_info(cursor, user_id):
                                " WHERE [id_пользователя] = {}".format(user_id))
 
 
-def get_user_contact_info(cursor, user_id):
-    return execute_sql(cursor, 'SELECT [номер_телефона], [mail]'
-                               'FROM [Пользователи]'
-                               'WHERE [id_пользователя] = {}'.format(user_id))
-
-
 def get_all_trades(cursor):
-    return execute_sql(cursor, "SELECT * "
+    return execute_all(cursor, "SELECT * "
                                "FROM Сделки")
 
 
 def get_trades_by_market(cursor, market_id):
-    return execute_sql(cursor, "SELECT * "
+    return execute_all(cursor, "SELECT * "
                                "FROM Сделки "
-                               "WHERE [биржа] = {}".format(market_id))
+                               "WHERE Биржа = 'KOSDAQ'"
+                       )
 
 
-def get_broker_info(cursor, broker_id):
-    return execute_sql(cursor, "SELECT * "
-                               "FROM Брокеры "
-                               "WHERE [Код_брокера] = {}".format(broker_id))
+def get_stock_info(cursor, broker_id):
+    return execute_all(cursor, "SELECT * FROM Биржи ")
 
 
-def get_instrument_info(cursor, instrument_id):
-    return execute_sql(cursor, "SELECT * "
-                               "FROM Инструменты "
-                               "WHERE [Код_инструмента] = {}".format(instrument_id))
+def get_symbol_info(cursor, instrument_id):
+    return execute_all(cursor, "SELECT * FROM Котировки ")
 
 
 def get_trades_by_insrument(cursor, instrument_id):
-    return execute_sql(cursor, "SELECT * "
-                               "FROM Котировки "
-                               "WHERE [Инструмент] = {}".format(instrument_id))
+    return execute_all(cursor, "SELECT * "
+                               "FROM Сделки "
+                               "WHERE тикер = 'XCLL'")
 
 
 def get_last_user_id(cursor):

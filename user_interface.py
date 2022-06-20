@@ -29,15 +29,14 @@ def register_window():
 
 def user_window(cursor, user_id, headings, data, tooltip):
     user_info = mssql.get_user_info(cursor, user_id)  # [Фамилия], [Имя], [Отчество], [дата_рождения]'
-    # user_contact_info = mssql.get_user_contact_info(cursor, user_id)
-    data = list(map(lambda i: list(i), [data]))
+    data = list(map(lambda i: list(i), data))
 
     layout = [[sg.Text("{} {} {}".format(user_info[0], user_info[1], user_info[2]),
                        justification='center'), sg.Button('Выход')],
               [sg.Button('Сделки'),
                sg.Button('Сделки по биржам'),
-               sg.Button('Брокеры'),
-               sg.Button('Инструменты'),
+               sg.Button('Сделки по котировкам'),
+               sg.Button('Биржи'),
                sg.Button('Котировки')
                ],
               [sg.Table(values=data,

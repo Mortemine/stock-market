@@ -58,7 +58,7 @@ def registration_loop(cursor):
 
 def work_window_loop(cursor, user_id):
     current_window = ui.user_window(cursor, user_id,
-                                    ['код_сделки', 'вид_сделки', 'Брокер', 'Тикер', 'Количество',
+                                    ['код_сделки', 'вид_сделки', 'Тикер', 'Количество',
                                      'Биржа', 'Дата'], sql.get_all_trades(cursor),
                                     'Сделки')
 
@@ -73,34 +73,34 @@ def work_window_loop(cursor, user_id):
             current_window.close()
 
             current_window = ui.user_window(cursor, user_id,
-                                            ['код_сделки', 'вид_сделки', 'брокер', 'тикер',
+                                            ['код_сделки', 'вид_сделки', 'тикер',
                                              'количество', 'биржа', 'дата'],
                                             sql.get_all_trades(cursor), 'Сделки')
 
         elif event == 'Сделки по биржам':
             current_window.close()
             current_window = ui.user_window(cursor, user_id,
-                                            ['код_сделки', 'вид_сделки', 'Брокер', 'Тикер', 'Количество',
+                                            ['код_сделки', 'вид_сделки', 'Тикер', 'Количество',
                                              'Биржа', 'Дата'], sql.get_trades_by_market(cursor, user_id),
                                             'Сделки')
 
-        elif event == 'Брокеры':
+        elif event == 'Биржи':
             current_window.close()
-            current_window = ui.user_window(cursor, user_id, ['Код_брокера', 'Брокер'],
-                                            sql.get_broker_info(cursor, user_id), 'Брокеры')
-
-        elif event == 'Инструменты':
-            current_window.close()
-            current_window = ui.user_window(cursor, user_id,
-                                            ['код_инструмента', 'наименование', 'тип_инструмента', 'владелец'],
-                                            sql.get_instrument_info(cursor, user_id),
-                                            'Инструменты')
+            current_window = ui.user_window(cursor, user_id, ['Код_биржи', 'Название', 'Валюта_торгов'],
+                                            sql.get_stock_info(cursor, user_id), 'Биржи')
 
         elif event == 'Котировки':
             current_window.close()
             current_window = ui.user_window(cursor, user_id,
-                                            ['код_котировки', 'инструмент', 'цена_покупки', 'цена_продажи',
-                                             'объём', 'Валюта', 'дата'],
+                                            ['код_котировки', 'цена', 'volume', 'валюта', 'дата', 'владелец', 'тип'],
+                                            sql.get_symbol_info(cursor, user_id),
+                                            'Котировки')
+
+        elif event == 'Сделки по котировкам':
+            current_window.close()
+            current_window = ui.user_window(cursor, user_id,
+                                            ['код_сделки', 'вид_сделки', 'Тикер', 'Количество',
+                                             'Биржа', 'Дата'],
                                             sql.get_trades_by_insrument(cursor, user_id),
                                             'Сделки')
 
