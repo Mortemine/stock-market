@@ -1,53 +1,20 @@
 # import pandas as pd
 # from sql import connect_to_sql
+from sql_defines import insert_into, values
 import json
 
 
-def add_countries(cursor):
-    with open('static_data/countries.json') as f:
-        countries = json.load(f)
-        insert_command = "INSERT INTO [Stock_market].[dbo].[Страны] ([Код_страны], [Название]) VALUES('{}', '{}')"
-        for key in countries:
-            cursor.execute(insert_command.format(key, countries[key]))
-        cursor.commit()
+def insert_command(table_name, id_name, name):
+    return f"{insert_into} [Stock_market].[dbo].[{table_name}] ([{id_name}], [{name}])" + values + " ('{}', '{}')"
 
 
-def add_cities(cursor):
-    with open('static_data/cities.json') as f:
-        cities = json.load(f)
-        insert_command = "INSERT INTO [Stock_market].[dbo].[Города] ([Наименование], [Страна])" \
-                         " VALUES('{}', '{}')"
-        for key in cities:
-            for value in set(cities[key]):
-                cursor.execute(insert_command.format(value, key))
-        cursor.commit()
-
-
-def add_currencies(cursor):
-    with open('static_data/currencies.json') as f:
-        currencies = json.load(f)
-        insert_command = "INSERT INTO [Stock_market].[dbo].[Валюты] ([Код_валюты], [Название]) " \
-                         "VALUES ('{}', '{}')"
-        for key in currencies:
-            cursor.execute(insert_command.format(key, currencies[key]))
-        cursor.commit()
-
-
-def add_companies(cursor):
-    with open('static_data/company_symbols.json', encoding='utf-8') as f:
-        symbols = json.load(f)
-        insert_command = "INSERT INTO [Stock_market].[dbo].[Компании] ([Код_компании], [Название]) " \
-                         "VALUES ('{}', '{}')"
-        for value in symbols:
-            cursor.execute(insert_command.format(value['symbol'], value['name']))
-        cursor.commit()
-
-
-def add_stocks(cursor):
-    with open('static_data/stocks.json', encoding='utf-8') as f:
-        stocks = json.load(f)
-        insert_command = "INSERT INTO [Stock_market].[dbo].[Биржи] ([Код_биржи], [Название]) " \
-                         "VALUES ('{}', '{}')"
-        for key in stocks:
-            cursor.execute(insert_command.format(key, stocks[key]))
+def add_json_data(cursor, file_name: str, command):
+    with open(f'static_data/{file_name}', encoding='utf-8') as f:
+        data = json.load(f)
+        for key in data:
+            if isinstance(data[key], list):
+                for value in set(data[key]):
+                    cursor.execute(command.format(key, value))
+            else:
+                cursor.execute(command.format(key, data[key]))
         cursor.commit()
