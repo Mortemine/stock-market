@@ -1,0 +1,154 @@
+{
+  "GREZF": {
+    "currency": "USD",
+    "type": "Common Stock"
+  },
+  "STTK": {
+    "currency": "USD",
+    "type": "Common Stock"
+  },
+  "FALHF": {
+    "currency": "USD",
+    "type": "Common Stock"
+  },
+  "VCLT": {
+    "currency": "USD",
+    "type": "ETP"
+  },
+  "PBR.A": {
+    "currency": "USD",
+    "type": "ADR"
+  },
+  "CLNR": {
+    "currency": "USD",
+    "type": "ETP"
+  },
+  "CSXXY": {
+    "currency": "USD",
+    "type": "ADR"
+  },
+  "RNECF": {
+    "currency": "USD",
+    "type": "Common Stock"
+  },
+  "TMCI": {
+    "currency": "USD",
+    "type": "Common Stock"
+  },
+  "NUMD": {
+    "currency": "USD",
+    "type": "Common Stock"
+  },
+  "SBIO": {
+    "currency": "USD",
+    "type": "ETP"
+  },
+  "ALSRF": {
+    "currency": "USD",
+    "type": "REIT"
+  },
+  "SLAMW": {
+    "currency": "USD",
+    "type": "Equity WRT"
+  },
+  "PAR": {
+    "currency": "USD",
+    "type": "Common Stock"
+  },
+  "IARGF": {
+    "currency": "USD",
+    "type": "Common Stock"
+  },
+  "CORT": {
+    "currency": "USD",
+    "type": "Common Stock"
+  },
+  "CALRF": {
+    "currency": "USD",
+    "type": "Common Stock"
+  },
+  "CTDD": {
+    "currency": "USD",
+    "type": "PUBLIC"
+  },
+  "CWYUF": {
+    "currency": "USD",
+    "type": "REIT"
+  },
+  "GLARF": {
+    "currency": "USD",
+    "type": "Common Stock"
+  },
+  "NAT": {
+    "currency": "USD",
+    "type": "Common Stock"
+  },
+  "CALZF": {
+    "currency": "USD",
+    "type": "Common Stock"
+  },
+  "PNPFF": {
+    "currency": "USD",
+    "type": "Common Stock"
+  },
+  "RSEAS": {
+    "currency": "USD",
+    "type": "Common Stock"
+  },
+  "PVTTF": {
+    "currency": "USD",
+    "type": "Common Stock"
+  },
+  "TAIMF": {
+    "currency": "USD",
+    "type": "Common Stock"
+  },
+  "PEG": {
+    "currency": "USD",
+    "type": "Common Stock"
+  },
+  "GOF": {
+    "currency": "USD",
+    "type": "Closed-End Fund"
+  },
+  "RLPHQ": {
+    "currency": "USD",
+    "type": "Common Stock"
+  },
+  "IHSEF": {
+    "currency": "USD",
+    "type": "ETP"
+  },
+  "OCN": {
+    "currency": "USD",
+    "type": "Common Stock"
+  },
+  "GSRMU": {
+    "currency": "USD",
+    "type": "Unit"
+  },
+  "XCLL": {
+    "currency": "USD",
+    "type": "Common Stock"
+  },
+  "PDGO": {
+    "currency": "USD",
+    "type": "Common Stock"
+  },
+  "RYI": {
+    "currency": "USD",
+    "type": "Common Stock"
+  },
+  "SSSAF": {
+    "currency": "USD",
+    "type": "Common Stock"
+  },
+  "QVML": {
+    "currency": "USD",
+    "type": "ETP"
+  },
+  "KAHC.WS": {
+    "currency": "USD",
+    "type": "Equity WRT"
+  }
+}

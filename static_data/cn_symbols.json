@@ -1,0 +1,3018 @@
+{
+  "LECR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "TGOD.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "EDGM.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "EMPH.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CNTR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ETI.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "DVN.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ELEM.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "DWR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MJEM.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "1941206D.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "UBQ.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "FABL.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "API.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "OMIC.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MICH.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "SCV.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ARM.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "WBIO.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "FDY.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "DIGI.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "NATN.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "TEMP.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "BAMM.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CLC.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "SGD.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "TIM.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "BETS.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "FUZN.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CBP.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MCUR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "PWR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "JUBA.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "RWB.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "PRTI.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "NDAT.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "AMPD.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "BIGG.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "TAI.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "LVT.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ARQ.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CXC.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CRC.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "DEEP.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "NTM.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "LUFF.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ZEU.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "OWLI.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "SQID.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "PMC.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ORI.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "COOL.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "SLNG.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "NSAU.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ORIG.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "STGX.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "EDEN.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "PRUD.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "BY.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "1702056D.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "EEE.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MIS.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "WESA.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GSQ.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "BAC.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ORTH.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "FANS.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CCHW.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CHM.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MEGA.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "WSM.X.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "PSYG.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "AMS.X.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "VRAR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "DRUG.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "IKNK.U.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "PMS.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "PAID.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "NVR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "PBIC.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "TLP-U.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GET.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "COSA.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "TEAM.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "BIO.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "VEGA.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "SP.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "BUX.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "TCAN.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ADX.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "PBIT.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "RYAH.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "SPOR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "PDO.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "TCC.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "PHRM.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GLDS.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "RSF.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ORGN.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "PPK.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ETR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "BYT.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MANN.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CK.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "HTRC.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "PTX.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "SOL.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GTX.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CXXI.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "TAAL.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "PERK.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "RAMM.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "STK.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "NUR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GLAB.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ASEP.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "LP.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "SBD.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CFT.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "2056754D.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MYR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "BEV.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "VSBY.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "RCLF.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ABRT.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "AUCU.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "LAI.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GTTX.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "SIG.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "PLAY.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "COYX.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CUAU.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "RFR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CTOC.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "FFNT.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "LODE.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MJ.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ITKO.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "RISE.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "FONE.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "VR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "NWI.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "COP.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CHAL.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CCR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "HFH.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CDPR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "QQ.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "OIL.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "DPRO.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "WPN.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "OVAT.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "NSHS.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "YOOM.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "KUYA.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "JSDA.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ENBI.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "QIM.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "HECO.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "BOIL.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "NI.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ORCD.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "1986997D.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ZTE.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "LUV.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "HMPS.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CALM.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ESNR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CRL.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ERTH.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "BLR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GLM.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "LOWL.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "HLTH.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MEAT.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "BRAX.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "PDFI.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CSS.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "SHRC.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "FTEL.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CNI.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "NINE.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "TRUE.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "BJB.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CAKE.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "AXCP.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "PRIZ.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MLK.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "DOCT.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "FAT.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "FUTR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MSET.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "DELC.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "SWRM.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "IDK.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CPTR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "HBOR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "TIDL.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "DCSI.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "PODA.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "FRSH.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GWAY.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "FIT.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "AMPS.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "NC.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "LUR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "AYUR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "QTZ.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "XMG.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CDVA.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "SASY.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "AION.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "AUHI.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CUBE.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CO.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "FWM.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ACME.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "AUAG.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "AG-U.CN": {
+    "currency": "CAD",
+    "type": "Unit"
+  },
+  "TYUM.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "1659661D.CN": {
+    "currency": "CAD",
+    "type": "Unit"
+  },
+  "GOH.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "XRA.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ALCU.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "BRCO.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "FNQ.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "LOBE.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "PLNK.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "WIFI.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ELMT.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "RMES.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GPK.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "1813599D.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ROO.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "XOP.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "TCF.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "OZLI.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "RZX.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "LIDA.CN": {
+    "currency": "CAD",
+    "type": "Unit"
+  },
+  "GTCH.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "LYNX.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ST.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ACG.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MBLM.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CRUZ.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CBOX.X.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "BRH.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GOR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "STPH.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "AQUA.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "SENS.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "NNL.U.CN": {
+    "currency": "CAD",
+    "type": "REIT"
+  },
+  "OPC.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "FOX.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ADMT.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "BETR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MLKM.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MSVN.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "NTAR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "2031241D.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "EMET.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "NOM.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "URL.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "UDOC.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MPXI.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "VC.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MIA.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "NEWD.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "BDN.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "QCA.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GCP.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "RAD.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "VAGN.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "RDY.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CAT.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "THC.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CI.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "IZO.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "SKUR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "EI.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ACRG.A.U.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "1819198D.CN": {
+    "currency": "CAD",
+    "type": "Unit"
+  },
+  "RAIL.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "JJJ.X.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MEND.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CRCC.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CGII.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "PLCN.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "WTEQ.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GBC.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CEG.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CAMP.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "IONC.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GWS.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MOJO.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MMAX.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "BLGV.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CWRK.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CURE.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "IPOT.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "VEXT.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "XPHY.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MGRO.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "BURY.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "AIML.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "RLG.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GBMC.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "EMH.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "QBAT.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ZRO.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "JEM.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "TRYP.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MIRL.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "WUC.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "NEON.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GTII.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CANA.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MILK.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "KWG.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "VTI.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "NVLH.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "BLOX.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "SLV.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MM.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ULTH.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "SOLV.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "REDG.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GAND.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ASHL.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "TO.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "TGLD.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "AREV.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "FNI.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "RED.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "PKB.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "OILS.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GSK.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "SEK.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "SX.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "IBAT.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "STWO.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "HM.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "READ.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "RARE.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GL.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "NXU.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CURA.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GRM.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "AFI.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "TN.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "PKG.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "TUSK.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "RZR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "TGII.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "RCHR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "QNI.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "FLYY.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "TBI.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "HMBL.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MJRX.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "RXM.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "AYR.A.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ICAN.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CME.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CRCL.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "SHP.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GSRI.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MLCL.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "BLNT.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "UUSA.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ALE.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GSL.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "AVBT.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "1773054D.CN": {
+    "currency": "CAD",
+    "type": "Unit"
+  },
+  "ASIA.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "PUGS.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "1494303D.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ACRG.B.U.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "HWG.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "IME.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CBDT.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MCCN.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GMR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "SEAG.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "2078192D.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "WGC.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "SNA.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "AJN.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "LVL.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "TONY.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "APP.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "TNY.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "SPO.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "NPT.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "NERD.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "SNN.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "NLR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "YOUR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "SILO.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CODE.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "BTC.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "SPR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ATHA.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MEDA.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "SONA.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "VPN.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "RR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "EMER.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "NVG.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "DELT.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "1987597D.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "BKS.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "BOLT.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "VENI.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "EATS.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "TRIP.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "NICO.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "SPFY.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CAVU.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "TUGA.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "BEE.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "WLNS.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "BULL.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CAPR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "AGRA.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "RGLD.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CMT.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "EWG.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "HUNT.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "VALU.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CRS.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "NPRA.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GAMA.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "LUX.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "TEVO.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "BLLG.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "EMRG.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "VOY.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GRAY.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "AOC.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "PROP.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "VEJI.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "PSYC.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "HSLV.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "EHC.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "WDGY.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GCA.X.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GRHK.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "SGRO.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ACA.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GSU.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "AGN.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MOOO.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GCIT.X.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "PRR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "TIUM.U.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "SE.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MRBL.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "BCBC.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "BBM.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CMND.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "HS.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "NSJ.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "VIN.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "TTT.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "PULL.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "SKLL.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "SWIM.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MUZU.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CANN.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "NIRV.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "OPTI.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "TAAT.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "IMCC.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "WMC.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "VOLT.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "FFT.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CRVC.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "XBRA.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CLSH.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "VRNO.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ISFT.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "DST.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GFCO.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "XIGM.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "WIB.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ATMO.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "WTER.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "VIK.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "POKO.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GEMS.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "SPEY.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MMC.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ASE.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ZOG.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "SPMT.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MMEN.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "DSAI.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "COVE.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "EMPS.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "AUSA.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "XBLK.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "2082584D.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "IGLD.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "FGFL.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "TELE.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GDNS.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MOC.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ASTI.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ARO.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "APLV.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "IGN.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "VEGN.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "BHSC.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "TSF.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "JUSH.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "JQ.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "1997158D.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MRM.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "XCX.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "BNSL.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "UP.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "INNO.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "BILZ.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MADI.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "NFLD.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "RKL.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "IP.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "HG.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "HVW.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GRIN.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "FE.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MDMA.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "IC.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "NSG.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "RNG.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "BDR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CBDN.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "TGIF.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "TRUL.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CNFA.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "PMED.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "AVM.X.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "PLNT.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "SCYB.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "VEGI.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "AMMP.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "TMED.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "TERA.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "HEAT.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "STX.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "BNN.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "SIX.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "LUXX.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "SQX.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "BYND.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "LITE.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "AWR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CIG.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "WBGD.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "TRG.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CRIV.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "EPY.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MVMD.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "PNGC.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MNG.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CALI.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "EPIC.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "KETA.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MCL.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GBLC.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "HYTN.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "STAG.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "FENX.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GOAT.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CSI.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CIM.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "EXM.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "PKK.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GAIA.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GREN.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "1568548D.CN": {
+    "currency": "CAD",
+    "type": "Unit"
+  },
+  "PLTH.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GPO.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "RIV.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "FUEL.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CULT.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "KASH.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "HAVN.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "WEST.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "VIBE.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MAKA.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "STEM.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GTOO.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "PGOL.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "WO.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "PRT.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CVGR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "SPRX.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "NOVA.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "BYFM.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "BRCK.U.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "1620156D.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "FDM.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GHG.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "BRAS.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "PHRX.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "SUPR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "LLP.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CSQ.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CGN.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CHOO.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GLOW.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CHV.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GOCO.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "SUN.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MGW.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "HODL.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "WG.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "LQID.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "AWLI.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "SCRN.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ALPA.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "2055520D.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ARS.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "SAND.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ACT.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MYTC.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "RVV.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CC.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "IDVR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GABY.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "BLAB.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "AUOZ.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "UAV.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "PBF.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "TMAS.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CCC.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "XTRX.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "EOM.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "TELI.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "AHG.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "PSE.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CL.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GGLD.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "AGE.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CFE.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GNOM.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "UX.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "IBH.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "VST.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "IWIN.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "JKPT.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "BNKR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "FFF.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "LEXT.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ZAIR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ARGO.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "PM.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "SIXW.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GGC.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "DOSE.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "1690194D.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "POWR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CRES.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "KWG.A.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "J.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ATHR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "FIOR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "LIM.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "LLL.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GLL.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "RAIN.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "BEAN.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "FNAU.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "1750975D.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GMNG.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "BLO.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "JUVA.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "URNM.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GDBY.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "NCLR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "IAN.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "BITE.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "PLLR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "DTC.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "REO.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "SXTY.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "HRO.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "HP.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "PUSH.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MAXX.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CLAR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "NVRO.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "YUM.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "BCFN.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "LRDS.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GUMY.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "EASY.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "EONX.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "EGTI.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "TOC.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "PILL.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "TEQ.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "GFI.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "VBN.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "1694938D.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "AAWH.U.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "PMET.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "BHNG.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "NBUD.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "EGFV.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "AFX.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MUSK.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "SLZ.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "SURE.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "XSF.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MOOD.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "HUGE.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "TRAC.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "4105417Z.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "SNOW.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "SNR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "PUMP.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "TTX.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "IMCX.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "NLV.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "PAU.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "JBR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "TER.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "HAMR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ELVN.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "HARY.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CDN.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ALMA.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MMI.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "USGD.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "REZN.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "IRV.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MARY.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "PREV.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "RICH.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "BIOV.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "BLMH.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "TICO.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "WAY.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "LION.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MEAL.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "KVM.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "RVR.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "ULTA.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MYND.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "MY.X.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  },
+  "CRFT.CN": {
+    "currency": "CAD",
+    "type": "Common Stock"
+  }
+}
