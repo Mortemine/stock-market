@@ -39,20 +39,3 @@ def get_symbols(exchange: str, new_file_name: str):
                                              "type": value["type"]}
     with open(f'static_data/{new_file_name}', 'w+') as new:
         json.dump(new_data, new)
-
-
-'''main_cursor = connect_to_sql()
-
-with open('static_data/new_us_symbols.json') as f:
-    data = json.load(f)
-    symbols = [key for key in data]
-
-with open('static_data/stocks.json') as f:
-    data = json.load(f)
-    stocks = [key for key in data]
-
-while True:
-    main_cursor.execute(f"INSERT INTO [Сделки] (вид_сделки, тикер, количество, биржа)"
-                        f" VALUES ('trade', '{random.choice(symbols)}', '{random.randint(1,20)}', '{random.choice(stocks)}')")
-    time.sleep(1)
-    main_cursor.commit()'''
