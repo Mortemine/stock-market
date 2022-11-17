@@ -3,9 +3,6 @@ from sql import connect_to_sql
 import finnhub
 from sql_defines import insert_into, values
 import json
-import datetime
-import random
-import time
 
 
 def insert_command(table_name: str, id_name: str, name: str):
